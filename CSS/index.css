@@ -1,0 +1,12 @@
+html{
+    background-color: lightgoldenrodyellow;
+}
+
+#title{
+    text-align: center;
+    text-decoration: underline;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: x-large;
+    background-color: blue;
+    color: aliceblue;
+}
