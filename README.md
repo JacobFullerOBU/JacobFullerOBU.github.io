@@ -6,5 +6,6 @@ Founders: Jacob Fuller, Michael Gold
 Have done: 
 
 Objectives: 
+
 Create a site where you can compare and look at the trends of a card over time 
 
