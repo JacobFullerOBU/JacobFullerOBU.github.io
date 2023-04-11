@@ -99,8 +99,3 @@ nav a {
 	color: #333;
 	text-decoration: none;
 }
-
-a:is(:link,:active,:visited).active{
-	color: white;
-	background-color: black;
-}
